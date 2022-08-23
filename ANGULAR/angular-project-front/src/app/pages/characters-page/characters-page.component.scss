@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.personajes{
+    
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.searching{
+    
+    width: 300px;
+    height: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }

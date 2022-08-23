@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+background-color: black;
+margin: 0;
+border: 0;
+
+}
+
+font-face {
+  font-family: GameofThrones;
+  src: url(assets/fonts/GameofThrones.ttf) format("truetype");
+}
+
+/*.got {
+    width: 1367px;
+    height: 390px;
+    text-align: center;
+    padding-top: 150px;
+    margin: 0 auto;
+    font-family: Game of Thrones;
+    font-size: 176px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+   /*  overflow: hidden; */
+  
+
+
+/*   .footers-btn {
+    background-color: transparent;
+    width: 330px;
+    height: 44px;
+    margin: 0 280px 0 0;
+    font-family: Game of Thrones;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+    position: relative;
+    top: 5em;
+
+} */
